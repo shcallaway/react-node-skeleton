@@ -1,0 +1,22 @@
+{
+  "name": "Lantern",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-router": "^3.0.0"
+  },
+  "scripts": {
+    "react": "react-scripts start",
+    "node": "node server",
+    "start": "react-scripts build && node server",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom"
+  }
+}
