@@ -2,11 +2,12 @@
 
 React Node Skeleton is a full stack web app boilerplate, which includes the following:
 
-* React
+* React - a component-based framework for views
 * React DOM
-* React Router
+* React Router - for singe-page app routing
 * Node
-* Express
-* Morgan
+* Express - web app framework
+* Morgan - http request middleware 
+* MySQL - relational database
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
